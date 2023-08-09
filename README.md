@@ -14,8 +14,7 @@ Some sample .csv data can be downloaded from: https://github.com/thieu1995/mafes
 # Application :
 [https://huggingface.co/spaces/mkotan/mafese_feature-selection](https://huggingface.co/spaces/mkotan/mafese_feature_selection)
 
-![interface]
-![interface](https://github.com/muhammedkotan/mealpy_feature-selection/blob/main/interface.PNG?raw=true)
+![interface](https://github.com/muhammedkotan/mafese_feature-selection/blob/main/mafese_hf.PNG?raw=true)
 
 
  

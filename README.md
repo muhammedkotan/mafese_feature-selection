@@ -20,8 +20,4 @@ Some sample .csv data can be downloaded from: https://github.com/thieu1995/mafes
  
 If you found this work useful, I would be grateful if you could see and cite the following publications.
 
-[1](Under review)Kotan, M “Facilitating Metaheuristic-Based Feature Selection in Machine Learning via an Interactive Web Interface” (2023)
-
-Also you can see our related papers:
-
-**[2] Oğur, N. B., Kotan, M., Balta, D., Yavuz, B. Ç., Oğur, Y. S., Yuvacı, H. U., & Yazıcı, E. (2023). Detection of depression and anxiety in the perinatal period using Marine Predators Algorithm and kNN. Computers in Biology and Medicine, 161, 107003.
+**[1] Oğur, N. B., Kotan, M., Balta, D., Yavuz, B. Ç., Oğur, Y. S., Yuvacı, H. U., & Yazıcı, E. (2023). Detection of depression and anxiety in the perinatal period using Marine Predators Algorithm and kNN. Computers in Biology and Medicine, 161, 107003.

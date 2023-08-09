@@ -3,7 +3,7 @@ Feature selection web app using mafese
 
 This page was developed for quick testing of metaheuristic optimization techniques in feature selection studies. The application interface is developed with gradio. https://gradio.app/
 
-The MealPy library is used for the methods here.* Please refer to the original pages for details:*
+The Mafese and Mealpy libraries are used for the methods here.* Please refer to the original pages for details:*
 
 https://mafese.readthedocs.io/en/latest/index.html https://mealpy.readthedocs.io/en/latest/ https://github.com/thieu1995/mafese https://github.com/thieu1995/mealpy
 

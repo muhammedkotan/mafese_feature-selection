@@ -14,10 +14,12 @@ Some sample .csv data can be downloaded from: https://github.com/thieu1995/mafes
 # Application :
 [https://huggingface.co/spaces/mkotan/mafese_feature-selection](https://huggingface.co/spaces/mkotan/mafese_feature_selection)
 
-![interface](https://github.com/muhammedkotan/mafese_feature-selection/blob/main/mafese_hf.PNG?raw=true)
+
 
 
  
-If you found this work useful, I would be grateful if you could see and cite the following publications.
+If you found this work useful, I would be grateful if you could see related research papers:**
+- Oğur, N. B., Kotan, M., Balta, D., Yavuz, B. Ç., Oğur, Y. S., Yuvacı, H. U., & Yazıcı, E. (2023). Detection of depression and anxiety in the perinatal period using Marine Predators Algorithm and kNN. Computers in Biology and Medicine, 161, 107003.  
+- ython Uygulamaları, In Book: MühendKotan, M. Seymen O. F. (2023). Makine Öğreniminde Öznitelik Seçme Yöntemlerinin Kullanımı: Güncel Pislikte İleri ve Çağdaş Çalışmalar 1, Duvar Yayınları
+- Kotan, M., Faruk Seymen, Ö., Çallı, L., Kasım, S., Çarklı Yavuz, B., & Över Özçelik, T. (2025). A novel methodological approach to SaaS churn prediction using whale optimization algorithm. PloS one, 20(5), e0319998.
 
-**[1] Oğur, N. B., Kotan, M., Balta, D., Yavuz, B. Ç., Oğur, Y. S., Yuvacı, H. U., & Yazıcı, E. (2023). Detection of depression and anxiety in the perinatal period using Marine Predators Algorithm and kNN. Computers in Biology and Medicine, 161, 107003.

@@ -1,4 +1,4 @@
-# mafese_feature-selection
+# MetaFSelect: No-Code Metaheuristic Feature Selection for Machine Learning
 Feature selection web app using mafese
 
 This page was developed for quick testing of metaheuristic optimization techniques in feature selection studies. The application interface is developed with gradio. https://gradio.app/

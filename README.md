@@ -18,7 +18,10 @@ Some sample .csv data can be downloaded from: https://github.com/thieu1995/mafes
 
 
  
-If you found this work useful, I would be grateful if you could see related research papers:**
+If you found this work useful, I would be grateful if you could cite:
+- M. Kotan and S. B. Abdullahi, "MetaFSelect: No-Code Metaheuristic Feature Selection for Machine Learning," 2025 33rd Telecommunications Forum (TELFOR), Belgrade, Serbia, 2025, pp. 1-4, doi: 10.1109/TELFOR67910.2025.11314278.
+
+See our related research papers:**
 - Kotan, M., Faruk Seymen, Ö., Çallı, L., Kasım, S., Çarklı Yavuz, B., & Över Özçelik, T. (2025). A novel methodological approach to SaaS churn prediction using whale optimization algorithm. PloS one, 20(5), e0319998.
 - Oğur, N. B., Kotan, M., Balta, D., Yavuz, B. Ç., Oğur, Y. S., Yuvacı, H. U., & Yazıcı, E. (2023). Detection of depression and anxiety in the perinatal period using Marine Predators Algorithm and kNN. Computers in Biology and Medicine, 161, 107003.
 
